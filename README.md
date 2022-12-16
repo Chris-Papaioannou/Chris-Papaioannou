@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning Javascript (particularly leaflet.js)
 - 💞️ I’m looking to collaborate on mobility related projects
 - 📫 How to reach me:
-        -   Work: christopher.papaioannou@ptvgroup.com
-        -   Home: christopherpapaioannou.cp@gmail.com
+- Work: christopher.papaioannou@ptvgroup.com
+- Home: christopherpapaioannou.cp@gmail.com
